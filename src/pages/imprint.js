@@ -26,6 +26,7 @@ const ImprintPage = () => (
         <li>Clint Adair</li>
         <li>Dmitry Ratshny</li>
         <li>Guillaume Bolduc</li>
+        <li>Nino Yang</li>
         <li>Jakob Owens</li>
         <li>Jason-Blackeye</li>
         <li>Jason Leung</li>
